@@ -1,0 +1,46 @@
+	body{}
+.header{
+	text-align: center;
+	display: block;
+	margin: 0px auto;
+	background: #708090;
+	padding: 40px;
+
+}
+.menu{
+	background : #4169e1;
+}
+.menu ul{
+
+	list-style: none;
+	margin: 0;
+}
+.menu ul li{
+	display:inline-block;
+	padding: 10px;
+}
+.content{}
+.content .bagiankiri{
+	display: inline-block;
+	float: left;
+	background: #708090;
+	width: 70%;
+	color: white;
+}
+.content .bagiankanan{
+	text-align: center;
+	display: inline-block;
+	float: right;
+	background: #708090;
+	width: 28% ;
+	color: white;
+}
+.produk{
+	display: inline-block;
+	width: 25%;
+	padding: 10px;
+	margin: 10px;
+}
+.produk img{
+	width: 100%
+}
